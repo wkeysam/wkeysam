@@ -45,14 +45,14 @@ Con experiencia en diseño de infraestructura, seguridad informática y desarrol
 
 ## Proyectos destacados
 
-### [Ocaso - Red de notas reflexivas](https://github.com/tuusuario/ocaso)
+### [Ocaso - Red de notas reflexivas](https://github.com/wkeysam/ocaso)
 Una red social que prioriza el bienestar, la introspección y la seguridad.  
 - Seguridad avanzada con autenticación por PIN, bloqueo de IPs, logs cifrados y más  
 - Backend en Flask + PostgreSQL (Aurora RDS)  
 - Infraestructura automatizada con Bash y AWS CLI  
 - Interfaz accesible e inspiradora, inspirada en TunnelBear
 
-### [Infraestructura Automatizada AWS](https://github.com/tuusuario/aws-bootstrap)
+### [Infraestructura Automatizada AWS](https://github.com/wkeysam/aws-bootstrap)
 Scripts `bash` que despliegan entornos completos en AWS:
 - Validación de claves temporales
 - Creación automática de API Gateway, Lambda, S3, RDS
@@ -63,7 +63,7 @@ Scripts `bash` que despliegan entornos completos en AWS:
 
 ## Contacto
 
-- GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+- GitHub: [github.com/tuusuario](https://github.com/wkeysam)
 - Email: sam.dgarcia02@gmail.com
 
 ---
