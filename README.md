@@ -57,9 +57,11 @@ Scripts `bash` que despliegan entornos completos en AWS:
 - Creación automática de API Gateway, Lambda, S3, RDS
 - Alertas por Telegram ante costes anómalos
 - Protección ante cambios sospechosos de IP
-### [PDFViewer] https://github.com/wkeysam/PDFProyect.
-- Lector de PDF
-
+### [PDFViewer - Lector de PDF](https://github.com/wkeysam/PDFProyect)
+Visualizador ligero y funcional de archivos PDF.  
+- Interfaz limpia y rápida  
+- Compatible con múltiples navegadores  
+- Proyecto enfocado en rendimiento y simplicidad
 ---
 
 ## Contacto
