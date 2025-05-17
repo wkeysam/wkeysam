@@ -43,7 +43,7 @@ Con experiencia en diseño de infraestructura, seguridad informática y desarrol
 
 ---
 
-## Proyectos destacados
+## Proyectos 
 
 ### [Ocaso - Red de notas reflexivas](https://github.com/wkeysam/ocaso)
 Una red social que prioriza el bienestar, la introspección y la seguridad.  
