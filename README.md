@@ -63,7 +63,7 @@ Scripts `bash` que despliegan entornos completos en AWS:
 
 ## Contacto
 
-- GitHub: [github.com/tuusuario](https://github.com/wkeysam)
+- GitHub: [github.com/wkeysam](https://github.com/wkeysam)
 - Email: sam.dgarcia02@gmail.com
 
 ---
