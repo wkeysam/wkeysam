@@ -43,7 +43,7 @@ Con experiencia en diseño de infraestructura, seguridad informática y desarrol
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
 ### [Ocaso - Red de notas reflexivas](https://github.com/wkeysam/ocaso)
 Una red social que prioriza el bienestar, la introspección y la seguridad.  
@@ -51,13 +51,14 @@ Una red social que prioriza el bienestar, la introspección y la seguridad.
 - Backend en Flask + PostgreSQL (Aurora RDS)  
 - Infraestructura automatizada con Bash y AWS CLI  
 - Interfaz accesible e inspiradora, inspirada en TunnelBear
-
-### [Infraestructura Automatizada AWS](https://github.com/wkeysam/aws-bootstrap)
+[Infraestructura Automatizada AWS]
 Scripts `bash` que despliegan entornos completos en AWS:
 - Validación de claves temporales
 - Creación automática de API Gateway, Lambda, S3, RDS
 - Alertas por Telegram ante costes anómalos
 - Protección ante cambios sospechosos de IP
+### [PDFViewer] https://github.com/wkeysam/PDFProyect.
+- Lector de PDF
 
 ---
 
