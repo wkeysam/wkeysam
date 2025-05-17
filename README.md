@@ -50,7 +50,8 @@ Una red social que prioriza el bienestar, la introspección y la seguridad.
 - Seguridad avanzada con autenticación por PIN, bloqueo de IPs, logs cifrados y más  
 - Backend en Flask + PostgreSQL (Aurora RDS)  
 - Infraestructura automatizada con Bash y AWS CLI  
-- Interfaz accesible e inspiradora, inspirada en TunnelBear
+- Interfaz accesible e inspiradora
+
 [Infraestructura Automatizada AWS]
 Scripts `bash` que despliegan entornos completos en AWS:
 - Validación de claves temporales
