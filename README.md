@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iili.io/365wX7p.md.png" alt="Banner de Samuel García Díaz" width="100%">
+  <img src="https://iili.io/367fGMQ.jpg" alt="Banner de Samuel García Díaz" width="100%">
 </p>
 
 # Samuel García Díaz — Portfolio
