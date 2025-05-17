@@ -19,12 +19,11 @@ Con experiencia en diseño de infraestructura, seguridad informática y desarrol
 ## Herramientas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/bash.gif" alt="Bash" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/docker.gif" alt="Docker" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/linux.gif" alt="Linux" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/github.gif" alt="GitHub" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/vscode.gif" alt="VSCode" width="50"/>
 </p>
 
 ---
@@ -32,13 +31,13 @@ Con experiencia en diseño de infraestructura, seguridad informática y desarrol
 ## Tecnologías
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/python.gif" alt="Python" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/flask.gif" alt="Flask" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/postgresql.gif" alt="PostgreSQL" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/sqlite.gif" alt="SQLite" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/html.gif" alt="HTML5" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/css.gif" alt="CSS3" width="50"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/aws.gif" alt="AWS" width="50"/>
 </p>
 
 ---
