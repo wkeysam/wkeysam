@@ -11,7 +11,7 @@ Aquí encontrarás los proyectos que he desarrollado con enfoque en seguridad, a
 
 ## Sobre mí
 
-Desarrollador con pasión por crear soluciones útiles, limpias y seguras.  
+Pasión por crear soluciones útiles, limpias y seguras.  
 Con experiencia en diseño de infraestructura, seguridad informática y desarrollo fullstack orientado a propósito.
 
 ---
