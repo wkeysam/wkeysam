@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://iili.io/365wX7p.md.png" alt="Banner de Samuel García Díaz" width="100%">
-</p>
-
 # Samuel García Díaz — Portfolio
 
 ¡Bienvenido/a a mi portafolio digital!  
@@ -43,16 +39,12 @@ Con experiencia en diseño de infraestructura, seguridad informática y desarrol
 
 ---
 
-## Proyectos 
-
-### [Ocaso - Red de notas reflexivas](https://github.com/wkeysam/ocaso)
-Una red social que prioriza el bienestar, la introspección y la seguridad.  
+## Proyectos   
 - Seguridad avanzada con autenticación por PIN, bloqueo de IPs, logs cifrados y más  
 - Backend en Flask + PostgreSQL (Aurora RDS)  
 - Infraestructura automatizada con Bash y AWS CLI  
 - Interfaz accesible e inspiradora, inspirada en TunnelBear
-[Infraestructura Automatizada AWS]
-Scripts `bash` que despliegan entornos completos en AWS:  
+- Scripts `bash` que despliegan entornos completos en AWS:  
 - Validación de claves temporales  
 - Creación automática de API Gateway, Lambda, S3, RDS  
 - Alertas por Telegram ante costes anómalos  
